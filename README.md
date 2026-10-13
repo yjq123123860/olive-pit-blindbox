@@ -6,7 +6,8 @@
 
 视觉语言参考潮玩品牌官网 [toptoyglobal.com](https://www.toptoyglobal.com/)：暗场 + 香槟金 + 中国红 + 45° 斜纹底 + 超粗斜体展示字 + 全幅首屏。
 
-![首屏](.github/preview-hero.png)
+![首屏](preview-hero.png)
+
 
 ---
 
